@@ -1,8 +1,6 @@
 // functions/src/index.ts
 // EPIR Jewelry Assistant - Main Firebase Functions Entry Point
-// This file configures and exports Firebase Cloud Functions for the EPIR
-// jewelry
-// e-commerce platform, including AI-powered analytics and customer assistance.
+// This file configures and exports Firebase Cloud Functions for the EPIR jewelry e-commerce platform, including AI-powered analytics and customer assistance.
 
 import {setGlobalOptions} from "firebase-functions";
 
